@@ -3,9 +3,9 @@ Hi! Welcome to my profile......
 <h1 align="center">Hi 👋, I'm Nazia Chowdhury</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **react, nextJs, tailwind, JavaScript, typeScript**
+- 🌱 I’m currently learning **React, RextJs, Tailwind, JavaScript, TypeScript**
 
-- 💬 Ask me about **react, nextJs, tailwind, JavaScript, typeScript**
+- 💬 Ask me about **React, RextJs, Tailwind, JavaScript, TypeScript**
 
 - 📫 How to reach me **naziachowdhurydev@gmail.com**
 
